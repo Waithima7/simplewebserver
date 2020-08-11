@@ -1,0 +1,20 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "First Basic Web server for Node Js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waithima7/simplewebserver.git"
+  },
+  "author": "NgugiWaithima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waithima7/simplewebserver/issues"
+  },
+  "homepage": "https://github.com/Waithima7/simplewebserver#readme"
+}
